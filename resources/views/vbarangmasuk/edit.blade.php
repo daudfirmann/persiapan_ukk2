@@ -57,7 +57,7 @@
                             <!-- Tambahkan input atau select lainnya sesuai kebutuhan -->
                             <button type="submit" class="btn btn-md btn-primary">SAVE</button>
                             <button type="reset" class="btn btn-md btn-warning">RESET</button>
-                            <a href="{{ route('barang.index') }}" class="btn btn-md btn-danger">BACK</a>
+                            <a href="{{ route('barangmasuk.index') }}" class="btn btn-md btn-danger">BACK</a>
                         </form>
                     </div>
                 </div>
